@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

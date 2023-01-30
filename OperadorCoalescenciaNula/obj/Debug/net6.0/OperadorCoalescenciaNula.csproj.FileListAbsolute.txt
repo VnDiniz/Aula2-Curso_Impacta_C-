@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\refint\OperadorCoalescenciaNula.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorCoalescenciaNula\obj\Debug\net6.0\ref\OperadorCoalescenciaNula.dll

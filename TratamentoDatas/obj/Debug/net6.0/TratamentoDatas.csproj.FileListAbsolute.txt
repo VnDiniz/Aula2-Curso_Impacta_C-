@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\bin\Debug\net6.0\TratamentoDatas.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\bin\Debug\net6.0\TratamentoDatas.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\bin\Debug\net6.0\TratamentoDatas.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\bin\Debug\net6.0\TratamentoDatas.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\bin\Debug\net6.0\TratamentoDatas.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\refint\TratamentoDatas.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\TratamentoDatas.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TratamentoDatas\obj\Debug\net6.0\ref\TratamentoDatas.dll

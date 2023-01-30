@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\refint\OperadorTernario.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadorTernario\obj\Debug\net6.0\ref\OperadorTernario.dll

@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\refint\StringToFormat.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\StringToFormat\obj\Debug\net6.0\ref\StringToFormat.dll

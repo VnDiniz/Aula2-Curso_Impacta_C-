@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\bin\Debug\net6.0\Operadores.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\bin\Debug\net6.0\Operadores.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\bin\Debug\net6.0\Operadores.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\bin\Debug\net6.0\Operadores.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\bin\Debug\net6.0\Operadores.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\refint\Operadores.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\Operadores.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\Operadores\obj\Debug\net6.0\ref\Operadores.dll

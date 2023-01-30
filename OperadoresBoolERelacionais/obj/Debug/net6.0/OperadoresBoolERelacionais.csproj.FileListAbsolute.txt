@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\refint\OperadoresBoolERelacionais.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\ref\OperadoresBoolERelacionais.dll

@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\bin\Debug\net6.0\TiposDeDados.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\bin\Debug\net6.0\TiposDeDados.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\bin\Debug\net6.0\TiposDeDados.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\bin\Debug\net6.0\TiposDeDados.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\bin\Debug\net6.0\TiposDeDados.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\refint\TiposDeDados.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\TiposDeDados.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula1\TiposDeDados\obj\Debug\net6.0\ref\TiposDeDados.dll
